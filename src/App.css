@@ -1,0 +1,96 @@
+.btn--add {
+    color: aliceblue;
+    background-color: rgb(13, 62, 128);
+    width: 80px;
+    height: 35px;
+    border: solid 1px wheat;
+    border-radius: 5px;
+    border-color: azure;
+    margin-left: 90%;
+}
+.btn--add:hover{
+    background-color: rgb(85, 85, 255);
+}
+h6{
+    margin-left:8%;
+}
+.in{
+    margin-left: 40px;
+    border: solid 0px;
+    width: 400px;
+    height: 30px;
+}
+.modal-c{
+    margin-left: 30%;
+    margin-top: -21%;
+    width: 35%;
+    height: 90%;
+    background-color: whitesmoke;
+    /* background-color: rgb(238, 238, 226); */
+    position: fixed;
+    z-index: 100;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.btn--x:hover{
+    border: solid 3px;
+    border-color: antiquewhite;
+}
+
+.btn--x{
+    margin-top: 10px;
+    margin-left:75%;
+    /* padding: 5px 0px 6px 0px; */
+    color: aliceblue;
+    width: 90px;
+    height: 35px;
+    border: solid 1px;
+    border-radius: 5px;
+    background-color: rgb(255, 83, 106);
+}
+.btn--s:hover{
+    border: solid 3px;
+}
+.btn--s{
+    border: solid 0px;
+    border-radius: 5px;
+    bottom: 0;
+    left: -10px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 0px;
+    padding: 7px;
+    color: aliceblue;
+    width: 90px;
+    border: solid 1px;
+    background-color: rgb(52, 52, 255);
+}
+.btn--c:hover{
+    border: solid 3px;
+
+}
+.btn--c{
+    border: solid 0px;
+    border-radius: 5px;
+    bottom: 0;
+    left: -10px;
+    margin-top: 15px;
+    margin-left: 25%;
+    margin-right: 0px;
+    padding: 7px;
+    color: aliceblue;
+    width: 90px;
+    border: solid 1px;
+    background-color: rgb(65, 253, 128);
+}
+
+
+.header{
+    text-align: center;
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+
+}
